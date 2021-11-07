@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/selectBusFragment">
+
+    <fragment
+        android:id="@+id/selectBusFragment"
+        android:name="com.itcc41.itcc41.SelectBusFragment"
+        android:label="fragment_select_bus"
+        tools:layout="@layout/fragment_select_bus" >
+        <action
+            android:id="@+id/navigateToSelectSeatFragment"
+            app:destination="@id/selectSeatFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/selectSeatFragment"
+        android:name="com.itcc41.itcc41.SelectSeatFragment"
+        android:label="fragment_select_seat"
+        tools:layout="@layout/fragment_select_seat" />
+</navigation>
