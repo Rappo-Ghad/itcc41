@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ITCC 41</string>
+    <string name="user_name">Shan Padayhag</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">My name is Shan. I live in Washington, D.C., I’m 26 years old, and I have been vegan for a year and a half.
+        \n\nMy parents have never been vegans, my stepfather was a vegetarian, my brother and my sister are both omnivores, and none of my friends are vegan. I don’t even know if anyone has mentioned to me that vegan is a diet in the past.
+        \n\nIn my family and at my house, everyone eats meat and dairy. My family doesn’t even like the idea of eating plant-based, but if they knew that I was vegan they’d be shocked.
+        \n\nI’m sure you’re wondering how I got here, and if it was so hard, why you shouldn’t try it, too. I’m going to try and break it down for you, in a sort of “how to be vegan” kind of way. But before that, I want to tell you something about me that might seem like a small detail, but it’s not. I want to tell you my deepest secret — the thing that changed my life — so that maybe you don’t have to go through the same journey I did to become vegan.  I was born in a Christian country that doesn’t want vegans.
+        \n\nI was born in a Christian country that doesn’t want vegans.
+        \n\nI was born in the Philippines, a country where people eat and believe in animal-based religion, called Christianity. When I was in my early teens, I learned about Jesus, whom my mother taught me to believe in, and about how the diet of the Bible was “clean.” She convinced me that it was healthy to eat vegetables, meat, and seafood. As a result, I was a strict vegetarian until I was a college sophomore.
+        \n\nDuring my first year of college, I was shocked when my friend told me she was taking a diet pill for the first time in her life and I had to watch her. I realized at that moment that I had been wrong all along about how to be healthy. I thought I was eating “clean.” And yet I was killing my health with a diet of meat and dairy.
+        \n\nWhen I told my mother about the diet pill my friend was taking, she laughed at me. I cried because I realized that I would never change my diet — until I found out about a diet called the raw food diet.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
